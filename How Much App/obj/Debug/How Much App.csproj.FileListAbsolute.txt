@@ -1,0 +1,50 @@
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\ApplicationInsights.config
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\How Much App.exe.config
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\App.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\MainPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\How Much App.xr.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\How Much App.exe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\How Much App.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\resources.pri
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\AppxManifest.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\How Much App.build.appxrecipe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.winmd
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.winmd
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\How Much App.csprojResolveAssemblyReference.cache
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\App.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\App.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\MainPage.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\MainPage.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\XamlTypeInfo.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\App.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\App.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\XamlSaveStateFile.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\MainPage.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\MainPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\ApplicationInsights.config
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\How Much App.exe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\How Much App.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\Microsoft.Diagnostics.Tracing.EventSource\en-US\Microsoft.Diagnostics.Tracing.Messages.resw
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\How Much App.csproj.GenerateResource.Cache
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\Microsoft.Diagnostics.Tracing.EventSource.pri
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\Microsoft.Diagnostics.Tracing.EventSource\qualifiers.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\priconfig.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\priconfig.xml.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\layout.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\layout.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\resources.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\resources.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\pri.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\pri.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\qualifiers.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\qualifiers.txt.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Projects\How Much App\How Much App\obj\Debug\ProjectArchitectures.txt

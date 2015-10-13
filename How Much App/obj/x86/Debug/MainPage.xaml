@@ -1,0 +1,54 @@
+﻿<Page x:Class="How_Much_App.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:How_Much_App"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="17*" />
+            <RowDefinition Height="62*" />
+            <RowDefinition Height="81*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="PageTitle"
+                   Style="{ThemeResource HeaderTextBlockStyle}" 
+                   Text="How Much?" Margin="24 0 0 0" Grid.Row="0"/>
+
+        <StackPanel Grid.Row="1" Margin="20">
+            <TextBox x:Name="NametxtBox" PlaceholderText="Name...."/>
+            <TextBox x:Name="PricetxtBox" PlaceholderText="Price...." />
+            <StackPanel Orientation="Horizontal">
+                <Button x:ConnectionId='1' x:Name="InsertBtn" Content="Insert"                        />
+                <Button x:ConnectionId='2' x:Name="LoadBtn"
+                        Content="Load"
+                        Margin="15 0 0 0"
+                                              />
+                <Button x:ConnectionId='3' x:Name="ClearBtn" Content="Insert"
+                        Margin="15 0 0 0"                       />
+            </StackPanel>
+        </StackPanel>
+
+        <ListView x:Name="myListView" DataContext="{Binding MainPageViewModel}" >
+            <ListViewItem>
+                <DataTemplate>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}" 
+                                       Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                            <TextBlock Text="{Binding Price}"
+                                       Style="{ThemeResource ListViewItemTextBlockStyle}" 
+                                       Margin="100 0 0 0"/>
+                        </StackPanel>
+                        <Line Fill="White" Stroke="White" X1="0" X2="100" 
+                              Y1="0" Y2="0" Stretch="Fill"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListViewItem>
+        </ListView>
+    </Grid>
+</Page>
+
